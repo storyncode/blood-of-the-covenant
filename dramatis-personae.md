@@ -25,5 +25,7 @@ A blood sister of Morgau.
 
 # Delfy Yovnel
 
+Delfy is a former assassin in the service of the Queen of Night and Magic. However, he and his partner/childhood friend, Selvyn, were tasked with investigating darakhul activity outside of the Shadowroads. Aside from his complete loyalty to the queen that saved his life, Defly doesn’t care much for shadow fey politics.  His apathy had also extended to the rest of his life while working as an assassin. However, watching Selyvn die, traveling with a group for the first time, and, most importantly, flying with Nergal, has given him a fresh outlook on life.
+
 # Ro'Arkanin Denneth
 
