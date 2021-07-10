@@ -19,7 +19,7 @@ A minotaur with a name most appropriate.
 
 # Katarina
 
-A blood sister of Morgau.
+Former blood sister, not opposed to murder/torture/pain, very scantily  clad most of the time, has become less murdery as time has passed and seem to focus alot on keeping the party alive
 
 # Mariana Crow
 Illiterate dhampir orphan and slave. Escaped slavery to live with gnomes.
