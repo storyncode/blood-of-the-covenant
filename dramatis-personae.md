@@ -22,6 +22,7 @@ A minotaur with a name most appropriate.
 A blood sister of Morgau.
 
 # Mariana Crow
+Illiterate dhampir orphan and slave. Escaped slavery to live with gnomes.
 
 # Delfy Yovnel
 
@@ -29,3 +30,7 @@ Delfy is a former assassin in the service of the Queen of Night and Magic. Howev
 
 # Ro'Arkanin Denneth
 
+
+# Arr
+
+Mysterious plant boy
