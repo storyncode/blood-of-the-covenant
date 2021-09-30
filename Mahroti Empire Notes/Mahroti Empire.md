@@ -1,5 +1,5 @@
 Harkesh is capitol
-Ozmir Al-Stragul (Sultan, Dragonborn)
+Ozmir Al-Stragul (Dread Sultan, Dragonborn)
 Dragons are the true leaders
 There's 8 regions
 There are a lot of dragonlords (see Garo msg)
