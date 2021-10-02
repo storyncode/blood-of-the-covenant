@@ -26,7 +26,7 @@ Calendar:
   - Have different names for the weekdays but for ease just use the others in the party.
 
 Khyprion:
-  - Chamiras is currently occupied by Mahroti. 2 months ago, under cover of fog was stormed by Mahroti empire. Immediately we executed 400 random minotaurs to make a point, enslaved everything else.
+  - Chamiras is currently occupied by Mahroti. Under cover of fog was stormed by Mahroti empire. Immediately we executed 400 random minotaurs to make a point, enslaved everything else.
     - Aarush Vedula is current leader, she is the one that led the storming of Chamiras.
     - Current orders are to enforce Mahroti rule in the city. Must not expand beyond the city for the time being.
     - Chamiras is being rebuilt as a Mahroti fortress.
