@@ -34,10 +34,10 @@ Khyprion:
 
 Hook:
   - Gaul is being sent to Khyprion to keep an eye on and help Seolin. Either she will succeed in overthrowing the queen or she will destabilise Khyprion. Either is fine.
-    - If she has the potential to become a threat to MaEmp then kill her.
+    - If she has the potential to become a threat to MhaEmp then kill her.
     - She's a descendant of the queen, unknown who her father is. Presumably a QConsort.
       - Has a claim
         - Weak at best, but can still be pushed in the current environs of Khyprion
-  - Left a day or two after Seolin. 
+  - Left a day or two after Seolin.
 
 There may be some bad blood. Good luck!
